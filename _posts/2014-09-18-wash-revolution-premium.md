@@ -16,8 +16,12 @@ Wash Revolution Premium adalah deterjen serbaguna untuk membersihkan peralatan m
 - Menghilangkan kotoran dengan mudah, seperti kotoran, minyak, kerak, dan lainnya⁣
 - Mensterilkan, mencuci, memutihkan, dan menghilangkan aroma tidak sedap
 
-## Anda Membutuhkan Pemersih yang Steril!
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jTj6p5Hwn80" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Ya, Anda Membutuhkan Pembersih yang Steril!
+Simak videonya berikut ini.
+
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/jTj6p5Hwn80" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Satu Paket Wash Revolution Premium terdiri dari: 
 
