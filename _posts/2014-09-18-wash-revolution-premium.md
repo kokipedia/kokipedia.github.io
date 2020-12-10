@@ -37,7 +37,7 @@ Campurkan 1 Sendok (5g) dalam 400 ML air hangat. Rendam selama 20 Menit dan goya
 ![Wash Revolution Premium](/images/wrp-3.jpg)
  
 ## Biasanya, produk ini bisa dijual sampai Rp 250.000, tetapi kabar baiknya Anda bisa mendapatkannya di Kokipedia.com hanya dengan Rp 180.000 saja per paketnya. Satu Paket Wash Revolution Premium terdiri dari: 
-- 2 Botol (700 Gr)
+- 2 Botol (masing-masing 700 Gr)
 
 ## Bonus
-- 2 Sachet Wash revolution (20 Gr)
+- 2 Sachet Wash revolution (masing-masing 20 Gr)
