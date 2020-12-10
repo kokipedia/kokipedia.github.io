@@ -3,6 +3,7 @@ layout: post
 title: "Wash Revolution Premium"
 category: cleaner
 ---
+![Wash Revolution Premium](/images/wrp-1.jpeg)
 
 ## Bersihkan berbagai jenis peralatan di rumah jadi lebih mudah!⁣
 ⁣
