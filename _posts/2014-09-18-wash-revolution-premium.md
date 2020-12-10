@@ -6,12 +6,15 @@ category: cleaner
 ![Wash Revolution Premium](/images/wrp-1.jpeg)
 
 ## Bersihkan berbagai jenis peralatan di rumah jadi lebih mudah!⁣
-⁣
+
 Wash Revolution Premium adalah deterjen serbaguna untuk membersihkan peralatan masak, dapur, toilet, kamar mandi,  mainan bayi, Microwave, dan Kulkas.
 ⁣
 ## Kenapa memilih Wash Revolution Premium?⁣
 - Ramah lingkungan, dibuat dari bahan yang aman bagi lingkungan. Memiliki sertifikat USDA, ECO-LABEL, LOHAS, dll⁣
 - Kandungan bahan aman, tidak mengandung bahan pencerahan flouresensi, fosfat, pigmen, rempah-rempah, anti-busa, dan LAS⁣
+
+![Wash Revolution Premium](/images/wrp-2.webp)
+
 - Dapat membunuh kuman⁣
 - Menghilangkan kotoran dengan mudah, seperti kotoran, minyak, kerak, dan lainnya⁣
 - Mensterilkan, mencuci, memutihkan, dan menghilangkan aroma tidak sedap
