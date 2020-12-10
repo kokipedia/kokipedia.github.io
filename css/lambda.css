@@ -199,6 +199,7 @@ em {
     font-size: 14px;
     border-top: 1px solid #e7e7e7;
     overflow: auto;
+    text-align: center;
 }
 .article-author .avatar {
     float: left;
