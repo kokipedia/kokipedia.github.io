@@ -16,9 +16,8 @@ Wash Revolution Premium adalah deterjen serbaguna untuk membersihkan peralatan m
 ## Kenapa memilih Wash Revolution Premium?⁣
 - Ramah lingkungan, dibuat dari bahan yang aman bagi lingkungan. Memiliki sertifikat USDA, ECO-LABEL, LOHAS, dll⁣
 - Kandungan bahan aman, tidak mengandung bahan pencerahan flouresensi, fosfat, pigmen, rempah-rempah, anti-busa, dan LAS⁣
-- Dapat membunuh kuman⁣
+- Dapat membunuh kuman, mensterilkan, mencuci, memutihkan, dan menghilangkan aroma tidak sedap
 - Menghilangkan kotoran dengan mudah, seperti kotoran, minyak, kerak, dan lainnya⁣
-- Mensterilkan, mencuci, memutihkan, dan menghilangkan aroma tidak sedap
 
 ![Wash Revolution Premium](/images/wrp-2.webp)
 
