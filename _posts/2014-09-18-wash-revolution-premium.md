@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wash Revolution"
+title: "Wash Revolution Premium"
 category: cleaner
 ---
 
