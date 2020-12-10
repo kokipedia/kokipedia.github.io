@@ -14,7 +14,7 @@ url: "https://kokipedia.com"
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: /:title
 excerpt_separator: "<!-- more -->"
 
 gems:
