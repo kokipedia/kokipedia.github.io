@@ -37,7 +37,10 @@ Campurkan 2 Sendok (10g) dalam 1 - 1.5 L air hangat. Rendam selama 20 menit, kem
 <u>Untuk Perhiasan</u>:
 Campurkan 1 Sendok (5g) dalam 400 ML air hangat. Rendam selama 20 Menit dan goyangkan di dalam larutan jika diperlukan
 *hanya untuk perhiasan yang tahan air, tidak untuk perhiasaan berbasis protein (mutiara, koral, cangkang kura-kura, gading, batu ambar, opal, perak, dan tembaga)
- 
+
+## Biasanya, produk ini bisa dijual sampai Rp 250.000, tetapi kabar baiknya Anda bisa mendapatkannya di Kokipedia.com hanya dengan:
+
+![Wash Revolution Premium](/images/wrp-3.jpg)
  
 ## Satu Paket Wash Revolution Premium terdiri dari: 
 
