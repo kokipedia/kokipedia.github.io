@@ -16,14 +16,11 @@ Wash Revolution Premium adalah deterjen serbaguna untuk membersihkan peralatan m
 ## Kenapa memilih Wash Revolution Premium?⁣
 - Ramah lingkungan, dibuat dari bahan yang aman bagi lingkungan. Memiliki sertifikat USDA, ECO-LABEL, LOHAS, dll⁣
 - Kandungan bahan aman, tidak mengandung bahan pencerahan flouresensi, fosfat, pigmen, rempah-rempah, anti-busa, dan LAS⁣
-
-![Wash Revolution Premium](/images/wrp-2.webp)
-
 - Dapat membunuh kuman⁣
 - Menghilangkan kotoran dengan mudah, seperti kotoran, minyak, kerak, dan lainnya⁣
 - Mensterilkan, mencuci, memutihkan, dan menghilangkan aroma tidak sedap
 
-
+![Wash Revolution Premium](/images/wrp-2.webp)
 
 ## Cara Penggunaan: 
 
@@ -38,7 +35,7 @@ Campurkan 2 Sendok (10g) dalam 1 - 1.5 L air hangat. Rendam selama 20 menit, kem
 Campurkan 1 Sendok (5g) dalam 400 ML air hangat. Rendam selama 20 Menit dan goyangkan di dalam larutan jika diperlukan
 *hanya untuk perhiasan yang tahan air, tidak untuk perhiasaan berbasis protein (mutiara, koral, cangkang kura-kura, gading, batu ambar, opal, perak, dan tembaga)
 
-## Biasanya, produk ini bisa dijual sampai Rp 250.000, tetapi kabar baiknya Anda bisa mendapatkannya di Kokipedia.com hanya dengan:
+## Biasanya, produk ini bisa dijual sampai Rp 250.000, tetapi kabar baiknya Anda bisa mendapatkannya di Kokipedia.com hanya dengan Rp 180.000 saja per paketnya:
 
 ![Wash Revolution Premium](/images/wrp-3.jpg)
  
