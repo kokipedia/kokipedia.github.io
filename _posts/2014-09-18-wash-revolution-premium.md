@@ -3,7 +3,11 @@ layout: post
 title: "Wash Revolution Premium"
 category: cleaner
 ---
-![Wash Revolution Premium](/images/wrp-1.jpeg)
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/jTj6p5Hwn80" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+***
 
 ## Bersihkan berbagai jenis peralatan di rumah jadi lebih mudah!⁣
 
@@ -19,12 +23,7 @@ Wash Revolution Premium adalah deterjen serbaguna untuk membersihkan peralatan m
 - Menghilangkan kotoran dengan mudah, seperti kotoran, minyak, kerak, dan lainnya⁣
 - Mensterilkan, mencuci, memutihkan, dan menghilangkan aroma tidak sedap
 
-## Ya, Anda Membutuhkan Pembersih yang Steril!
-Simak videonya berikut ini.
 
-<div class="video-container">
-<iframe src="https://www.youtube.com/embed/jTj6p5Hwn80" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 ## Cara Penggunaan: 
 
