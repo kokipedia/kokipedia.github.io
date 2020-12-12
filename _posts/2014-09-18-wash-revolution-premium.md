@@ -4,7 +4,7 @@ title: "Wash Revolution Premium"
 category: cleaner
 ---
 <div class="video-container">
-<iframe src="https://www.youtube.com/embed/jTj6p5Hwn80" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/jTj6p5Hwn80?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ***
